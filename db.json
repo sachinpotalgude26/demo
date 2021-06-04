@@ -11,5 +11,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "emails":  {
+      { "TimeStamp": "6/4/2021", "Flight Name": "Spotlight", "Usage Count": 1, "Email Typle": "email", "UserID": "100", "Auth Type": "AAD", "Ring": "Dev", "OS": "ios",  "Build": "dev",  "Language": "en-us", "Usage Success":"1",  "Network Type": "wifi"   },
   }
 }
