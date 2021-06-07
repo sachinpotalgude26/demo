@@ -44,7 +44,7 @@
 			"OS": "ios",
 			"Build": "dev",
 			"Language": "en-us",
-			"Usage Success": "1",
+			"Usage Success": 1,
 			"Network Type": "wifi",
 			"Skill Latency": 90
 		},
@@ -59,7 +59,7 @@
 			"OS": "ios",
 			"Build": "dev",
 			"Language": "en-us",
-			"Usage Success": "1",
+			"Usage Success": 1,
 			"Network Type": "wifi",
 			"Skill Latency": 110
 		},
@@ -74,7 +74,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Usage Success": "1",
+			"Usage Success": 1,
 			"Network Type": "wifi",
 			"Skill Latency": 95
 		},
@@ -89,7 +89,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Usage Success": "1",
+			"Usage Success": 1,
 			"Network Type": "wifi",
 			"Skill Latency": 90
 		},
@@ -104,7 +104,7 @@
 			"OS": "ios",
 			"Build": "dev",
 			"Language": "en-us",
-			"Usage Success": "1",
+			"Usage Success": 0,
 			"Network Type": "wifi",
 			"Skill Latency": 120
 		}]
