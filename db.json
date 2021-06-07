@@ -48,7 +48,7 @@
 			"Network Type": "wifi",
 			"Skill Latency": 90
 		},
-	    {
+		{
 			"TimeStamp": "6/4/2021",
 			"Flight Name": "Spotlight",
 			"Usage Count": 1,
@@ -63,7 +63,7 @@
 			"Network Type": "wifi",
 			"Skill Latency": 110
 		},
-	    {
+		{
 			"TimeStamp": "6/1/2021",
 			"Flight Name": "Archive",
 			"Usage Count": 1,
@@ -78,7 +78,7 @@
 			"Network Type": "wifi",
 			"Skill Latency": 95
 		},
-	    {
+		{
 			"TimeStamp": "6/1/2021",
 			"Flight Name": "Delete",
 			"Usage Count": 1,
@@ -93,7 +93,7 @@
 			"Network Type": "wifi",
 			"Skill Latency": 90
 		},
-	    {
+		{
 			"TimeStamp": "6/5/2021",
 			"Flight Name": "Spotlight",
 			"Usage Count": 1,
@@ -107,8 +107,10 @@
 			"Usage Success": 0,
 			"Network Type": "wifi",
 			"Skill Latency": 120
-		}],
-	"TotalEmails":[{
+		}
+	],
+	"TotalEmails": [
+		{
 			"TimeStamp": "6/5/2021",
 			"Total Emails Read": 20,
 			"Total Summaries Read": 5,
@@ -117,7 +119,7 @@
 			"OS": "ios",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/5/2021",
@@ -128,7 +130,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/5/2021",
@@ -139,7 +141,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/1/2021",
@@ -150,7 +152,7 @@
 			"OS": "ios",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/1/2021",
@@ -161,7 +163,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/1/2021",
@@ -172,7 +174,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/4/2021",
@@ -183,7 +185,7 @@
 			"OS": "ios",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/4/2021",
@@ -194,7 +196,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
+			"Network Type": "wifi"
 		},
 		{
 			"TimeStamp": "6/4/2021",
@@ -205,6 +207,7 @@
 			"OS": "android",
 			"Build": "dev",
 			"Language": "en-us",
-			"Network Type": "wifi",
-		}]
+			"Network Type": "wifi"
+		}
+	]
 }
