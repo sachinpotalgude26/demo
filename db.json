@@ -46,7 +46,8 @@
 			"Language": "en-us",
 			"Usage Success": 1,
 			"Network Type": "wifi",
-			"Skill Latency": 90
+			"Skill Latency": 90,
+			"Flight Last Activity": "Dev 50% on 6/1"
 		},
 		{
 			"TimeStamp": "6/4/2021",
@@ -61,7 +62,8 @@
 			"Language": "en-us",
 			"Usage Success": 1,
 			"Network Type": "wifi",
-			"Skill Latency": 110
+			"Skill Latency": 110,
+			"Flight Last Activity": "Dev 50% on 6/1"
 		},
 		{
 			"TimeStamp": "6/1/2021",
@@ -76,7 +78,8 @@
 			"Language": "en-us",
 			"Usage Success": 1,
 			"Network Type": "wifi",
-			"Skill Latency": 95
+			"Skill Latency": 95,
+			"Flight Last Activity": "Dev 100% on 6/1"
 		},
 		{
 			"TimeStamp": "6/1/2021",
@@ -91,7 +94,8 @@
 			"Language": "en-us",
 			"Usage Success": 1,
 			"Network Type": "wifi",
-			"Skill Latency": 90
+			"Skill Latency": 90,
+			"Flight Last Activity": "Dev 100% on 6/1"
 		},
 		{
 			"TimeStamp": "6/5/2021",
@@ -106,7 +110,8 @@
 			"Language": "en-us",
 			"Usage Success": 0,
 			"Network Type": "wifi",
-			"Skill Latency": 120
+			"Skill Latency": 120,
+			"Flight Last Activity": "Dev 50% on 6/1"
 		}
 	],
 	"TotalEmails": [
